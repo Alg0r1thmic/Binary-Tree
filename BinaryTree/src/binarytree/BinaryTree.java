@@ -22,7 +22,7 @@ public class BinaryTree {
         } else if (value > current.value) {
             current.right = addNewNode(current.right, value,nombre,apellido,direccion,tipoSangre);
         } else {
-            // value already exists
+           
             return current;
         }
 
