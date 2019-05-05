@@ -9,10 +9,6 @@ import binarytree.BinaryTree;
 import binarytree.Node;
 import javax.swing.JOptionPane;
 
-/**
- *
- * @author raul
- */
 public class app extends javax.swing.JFrame {
     BinaryTree bt=new BinaryTree();
     String text="aceptar";
