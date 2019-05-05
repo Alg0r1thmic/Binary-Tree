@@ -5,10 +5,7 @@
  */
 package binarytree;
 import binarytree.Node;
-/**
- *
- * @author raul
- */
+
 public class BinaryTree {
 
     Node root;
