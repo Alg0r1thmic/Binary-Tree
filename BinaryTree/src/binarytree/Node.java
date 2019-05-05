@@ -5,10 +5,6 @@
  */
 package binarytree;
 
-/**
- *
- * @author raul
- */
 public class Node {
     int value;
     String nombre;
